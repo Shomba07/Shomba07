@@ -1,8 +1,10 @@
 # Shomba07
 
-**Medicine And Surgery Student | MS 4** • Clinical Researcher • Author
+**Medicine And Surgery Student | MS 4** • **Researcher** • **Writer**
 
 A Health Maverick and Informatics Enthusiast
+
+I love fitness and fashion
 
 ---
 
@@ -67,7 +69,6 @@ Called to : **Long-term growth, guided by integrity, customer focus, and decisiv
 
 ---
 
-## 📈 GitHub Stats
 
 
 
